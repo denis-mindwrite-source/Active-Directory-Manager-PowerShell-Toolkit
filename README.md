@@ -173,6 +173,3 @@ Projeto desenvolvido para automação de ambiente Active Directory em ambiente c
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
